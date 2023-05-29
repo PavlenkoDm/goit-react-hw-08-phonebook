@@ -1,0 +1,13 @@
+.form {
+    width: 320px;
+    margin-bottom: 30px;
+}
+
+.label {
+    margin-bottom: 5px;
+}
+
+.input {
+    width: 310px;
+    margin-bottom: 16px;
+}

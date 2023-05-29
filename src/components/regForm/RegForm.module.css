@@ -1,0 +1,15 @@
+.form {
+    width: 320px;
+    padding-left: 12px;
+    padding-right: 12px;
+}
+
+.label {
+    display: flex;
+    flex-direction: column;
+    margin-bottom: 16px;
+}
+
+.title {
+    margin-bottom: 5px;
+}

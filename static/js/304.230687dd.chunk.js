@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkreact_homework_template=self.webpackChunkreact_homework_template||[]).push([[304],{6304:function(e,t,n){n.r(t),n.d(t,{default:function(){return r}});var o="Home_container__AHomM",a="Home_title__qAdt+",c=n(184),r=function(){return(0,c.jsx)("main",{className:o,children:(0,c.jsx)("h1",{className:a,children:"Welcome to PhoneBook App"})})}}}]);
+//# sourceMappingURL=304.230687dd.chunk.js.map

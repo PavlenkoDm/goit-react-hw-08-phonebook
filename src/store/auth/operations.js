@@ -49,8 +49,8 @@ export const logIn = createAsyncThunk(
             Loading.remove();
             return res.data;
         } catch (error) {
-            // Loading.remove();
-            // Notify.failure(error.message);
+            Loading.remove();
+            Notify.failure(error.message);
             return thunkAPI.rejectWithValue(error.message);
         }
     }
